@@ -1,0 +1,14 @@
+C:\Users\dwilliams\src\CodeTest\bin\Debug\net8.0\CodeTest.exe
+C:\Users\dwilliams\src\CodeTest\bin\Debug\net8.0\CodeTest.deps.json
+C:\Users\dwilliams\src\CodeTest\bin\Debug\net8.0\CodeTest.runtimeconfig.json
+C:\Users\dwilliams\src\CodeTest\bin\Debug\net8.0\CodeTest.dll
+C:\Users\dwilliams\src\CodeTest\bin\Debug\net8.0\CodeTest.pdb
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.AssemblyInfoInputs.cache
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.AssemblyInfo.cs
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.dll
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\refint\CodeTest.dll
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.pdb
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\CodeTest.genruntimeconfig.cache
+C:\Users\dwilliams\src\CodeTest\obj\Debug\net8.0\ref\CodeTest.dll
