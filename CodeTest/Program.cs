@@ -95,7 +95,7 @@ int GetSizeOfDirectoriesUnderOneHundred(List<Directory> yourDirectories)
     {
         d.TotalSize = GetFileSizes(d);
         
-        if(d.TotalSize <= 100000)
+        if(d.TotalSize < 100000)
         {
             directoriesUnder.Add(d);
         }
